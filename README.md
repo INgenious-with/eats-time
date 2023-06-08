@@ -14,11 +14,9 @@
 
 <h2>2. 프로젝트 사용 툴</h2>
 - Java<br>
-- Spring<br>
-- Spring Boot<br>
-- Oracle<br>
+- Jsp<br>
+- MySQL<br>
 - MyBatis<br>
-- Gradle<br>
 - Apachi Tomcat<br>
 - Java Script<br>
 - jQuery<br>
@@ -28,17 +26,14 @@
 - Sourcetree<br>
 - JSON<br>
 - JDK 11.0.15<br>
-- Naver DEVELOPER API<br>
-- Kakao DEVELOPER API<br>
 - bootpay API<br>
 - Java Mail API<br>
-- Postman<br>
-<h2>4. ERD</h2>
+<h2>3. ERD</h2>
 
 ![wegather erd 완성본](https://github.com/we-gether/wegether/assets/120389213/b7bb414b-14f9-4d79-90a3-b5cfede8198c)
 
   
-<h2>3. 담당 업무</h2>
+<h2>4. 담당 업무</h2>
 
 
 ![백엔드](https://github.com/we-gether/wegether/assets/120389213/67570a08-264a-4c48-8a26-7fb83c404728)
@@ -56,7 +51,7 @@
 - 강연 내역 관련(관리자)
 - 회원 관리 관련(관리자)
 
-<h2>4. 느낀점</h2>
+<h2>5. 느낀점</h2>
 <h3>6-1. 어려웠던 부분</h3>
 📌DTO에 LIST를 담는 것에 대한 어려움<br>
 ✔ 파일 같은 경우 하나가 아닌 여러개의 정보가 필요하므로 DTO에 LIST로 넣어야 했습니다. 이외에도 중간 테이블에 대한 이해가 있어야 기능 구현이 가능했었기에 관련 내용을 익혀 진행하였습니다.
