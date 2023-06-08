@@ -1,6 +1,6 @@
 <h1>유통기한 임박 상품 거래 사이트 - 'eatTime'</h1>
 
-
+<br>
 <h2>1. 기획배경&기대효과</h2>
 
 ![기획배경](https://github.com/web-its-time/eats-time/assets/120389213/d5d53909-174a-485c-bd18-8b383b63a154)
@@ -11,7 +11,7 @@
 또한 이는 식품 폐기를 줄이는 것으로 미래의 세계 먹거리 문제를 일부 해결할 수 있는 지속 가능한 방법으로 기대됩니다.<br>
 </div>
 
-
+<br>
 <h2>2. 프로젝트 사용 툴</h2>
 - Java<br>
 - Jsp<br>
@@ -28,11 +28,13 @@
 - JDK 11.0.15<br>
 - bootpay API<br>
 - Java Mail API<br>
+
+<br>
 <h2>3. ERD</h2>
 
 ![eatTime erd 완성본](https://github.com/web-its-time/eats-time/assets/120389213/3d70da41-c7b3-43cf-aab8-79203df89491)
 
-  
+<br>
 <h2>4. 담당 업무</h2>
 
 
@@ -53,6 +55,7 @@
 - 회원 정보 변경
 - 회원 탈퇴(비활성화)
 
+<br>
 <h2>5. 느낀점</h2>
 <h3>5-1. 어려웠던 부분</h3>
 📌DTO에 LIST를 담는 것에 대한 어려움<br>
