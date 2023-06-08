@@ -30,7 +30,7 @@
 - Java Mail API<br>
 <h2>3. ERD</h2>
 
-![wegather erd 완성본](https://github.com/we-gether/wegether/assets/120389213/b7bb414b-14f9-4d79-90a3-b5cfede8198c)
+![eatTime erd 완성본](https://github.com/web-its-time/eats-time/assets/120389213/3d70da41-c7b3-43cf-aab8-79203df89491)
 
   
 <h2>4. 담당 업무</h2>
