@@ -29,7 +29,7 @@
 - bootpay API<br>
 - Java Mail API<br>
 
-<br>
+<br><br>
 <h2>3. ERD</h2>
 
 ![eatTime erd 완성본](https://github.com/web-its-time/eats-time/assets/120389213/3d70da41-c7b3-43cf-aab8-79203df89491)
