@@ -27,7 +27,7 @@
 - JSON<br>
 - JDK 11.0.15<br>
 - bootpay API<br>
-- Java Mail API<br>
+- JavaMail API<br>
 
 <br><br>
 <h2>3. ERD</h2>
